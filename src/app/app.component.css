@@ -1,0 +1,7 @@
+no-border{
+    outline: none;
+}
+div-content{
+    display: flex;
+    justify-content: space-between;
+}
